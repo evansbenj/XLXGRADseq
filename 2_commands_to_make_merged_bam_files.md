@@ -258,15 +258,15 @@ mv sample_TTCTTCAGAC.fq XM_1d.fq
 ```
 and the french ones
 ```
-mv sample_TGTGACTGTGCAGG.fq jonk_02.fq
-mv sample_GTCATGTGTGCAGG.fq CoGH105.fq
-mv sample_GTCAGTGTTGCAGG.fq BJE3536.fq
-mv sample_TGTGTGACTGCAGG.fq BJE3540.fq
-mv sample_CAGTGTGTTGCAGG.fq BJE3581.fq
-mv sample_TGTGCAGTTGCAGG.fq BJE3608.fq
-mv sample_GTACGCTGTGCAGG.fq BJE3574.fq
-mv sample_CATGATCATGCAGG.fq JMEC003.fq
-mv sample_TGCATCGTTGCAGG.fq JMEC006.fq
+mv sample_TGTGACTG.fq jonk_02.fq
+mv sample_GTCATGTG.fq CoGH105.fq
+mv sample_GTCAGTGT.fq BJE3536.fq
+mv sample_TGTGTGAC.fq BJE3540.fq
+mv sample_CAGTGTGT.fq BJE3581.fq
+mv sample_TGTGCAGT.fq BJE3608.fq
+mv sample_GTACGCTG.fq BJE3574.fq
+mv sample_CATGATCA.fq JMEC003.fq
+mv sample_TGCATCGT.fq JMEC006.fq
 ```
 concatenate the samples
 
