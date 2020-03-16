@@ -256,6 +256,18 @@ mv sample_ATTAGGAGGC.fq XM_1c.fq
 mv sample_TTCTTCAGAC.fq XM_1d.fq
 
 ```
+and the french ones
+```
+mv sample_TGTGACTGTGCAGG.fq jonk_02.fq
+mv sample_GTCATGTGTGCAGG.fq CoGH105.fq
+mv sample_GTCAGTGTTGCAGG.fq BJE3536.fq
+mv sample_TGTGTGACTGCAGG.fq BJE3540.fq
+mv sample_CAGTGTGTTGCAGG.fq BJE3581.fq
+mv sample_TGTGCAGTTGCAGG.fq BJE3608.fq
+mv sample_GTACGCTGTGCAGG.fq BJE3574.fq
+mv sample_CATGATCATGCAGG.fq JMEC003.fq
+mv sample_TGCATCGTTGCAGG.fq JMEC006.fq
+```
 concatenate the samples
 
 ```
